@@ -344,9 +344,13 @@ int main(int argc, char **argv)
 
 
 ## OUTPUT:
+```
 With memset:
+```
 <img width="599" height="280" alt="image" src="https://github.com/user-attachments/assets/9dc1ae4b-5040-403e-b122-d28050763737" />
+```
 Without Memset:
+```
 <img width="600" height="276" alt="image" src="https://github.com/user-attachments/assets/8243721d-ddd4-4f8e-a2c6-2f13f0e7788f" />
 
 
